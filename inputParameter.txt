@@ -1,0 +1,9 @@
+ss,HS25
+l,150
+m,300
+s,10
+qs,93
+qs2,93
+nf,0
+rs,15
+o,outDir
